@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import chevronFiltre from "../assets/chevronFiltre.svg";
-import FiltrePopUp from "./FiltrePopUp";
+import FiltrePopUp from "./filtrePopUp";
 
 const Filtre = ({
   id,

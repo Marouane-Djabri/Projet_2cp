@@ -1,6 +1,6 @@
 import jsPDF from "jspdf";
 import autoTable from "jspdf-autotable";
-import headerImg from "../assets/headerEsi.png"; // adjust the path based on your file location
+import headerImg from "../assets/headerEsi.png"; 
 
 const exportToPDF = (equipements) => {
   const doc = new jsPDF();

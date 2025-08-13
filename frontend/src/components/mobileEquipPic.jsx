@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-import Camera from "../assets/Camera.svg";
+import Camera from "../assets/camera.svg";
 import Cloud from "../assets/Cloud.svg";
 
 export default function MobileEquipPic({ onPhotoTaken, onImageSelected }) {

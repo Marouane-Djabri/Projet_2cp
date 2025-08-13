@@ -1,5 +1,5 @@
 import { useState } from "react";
-import AssignPopUp from "./AssignPopUp"; // Adjust path if needed
+import AssignPopUp from "./assignPopUp"; // Adjust path if needed
 import { MdAccountCircle } from "react-icons/md";
 import UserProfilMail from "./userProfilMail"
 

@@ -4,7 +4,7 @@ import SearchBar from "../components/Searchbar";
 import Header from "../components/Header";
 import Options from "../components/options";
 import InterventionCard from "../components/interventionCard.jsx";
-import PopupChange from "../components/popupChange.jsx";
+import PopupChange from "../components/PopupChange.jsx";
 import useIsSmallScreen from "../hooks/useIsSmallScreen";
 import Filtre from "../components/filtre";
 import AddMobile from "../components/addMobile";
@@ -13,7 +13,7 @@ import PopupMessage from "../components/Popupcheck";
 import ViewToggle from "../components/viewToggle";
 import InterventionList from "../components/interventionList";
 import InterventionListHeader from "../components/interventionListHeader";
-import SelectionToolbarInter from "../components/selectionToolBarInter";
+import SelectionToolbarInter from "../components/SelectionToolBarInter";
 
 const Mestaches = () => {
   const [interventions, setInterventions] = useState([]); // Stocke toutes les interventions

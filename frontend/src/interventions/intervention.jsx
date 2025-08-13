@@ -8,7 +8,7 @@ import Popupdelete from "../components/Popupdelet";
 import Options from "../components/options";
 import InterventionCard from "../components/interventionCard";
 import PopupMessage from "../components/Popupcheck";
-import PopupChange from "../components/popupChange.jsx";
+import PopupChange from "../components/PopupChange.jsx";
 import useIsSmallScreen from "../hooks/useIsSmallScreen";
 import AddMobile from "../components/addMobile";
 import TabSelector from "../components/tabSelector";
@@ -17,7 +17,7 @@ import Filtre from "../components/filtre.jsx";
 import ViewToggle from "../components/viewToggle";
 import InterventionList from "../components/interventionList";
 import InterventionListHeader from "../components/interventionListHeader";
-import SelectionToolbarInter from "../components/selectionToolBarInter";
+import SelectionToolbarInter from "../components/SelectionToolBarInter";
 
 const Intervention = () => {
   const [interventions, setInterventions] = useState([]); // Stocke toutes les interventions

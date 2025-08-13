@@ -2,8 +2,7 @@ import { motion } from "framer-motion";
 import { MdEmail } from "react-icons/md";
 import Profil from "../assets/Profil.svg";
 import { MoreVertical } from "lucide-react";
-import Badge from "./Badge";
-import Options from "./Options"; // Importez le composant Options
+import Badge from "./badge";
 
 const UserCard = ({
   firstName,

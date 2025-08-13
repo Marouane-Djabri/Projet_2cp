@@ -2,7 +2,6 @@ import React from "react";
 import { MoreVertical } from "lucide-react";
 import Profil from "../assets/Profil.svg";
 import CustomCheckbox from "./customCheckbox";
-import Options from "./Options"; // Importez le composant Options
 
 const UserList = ({
   nom,

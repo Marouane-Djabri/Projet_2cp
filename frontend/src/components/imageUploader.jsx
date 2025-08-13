@@ -3,7 +3,7 @@
 import { useRef, useState } from "react";
 import useIsSmallScreen from "@/hooks/useIsSmallScreen";
 import Buttonrec from "./buttonrectangle";
-import MobileEquipPic from "./MobileEquipPic";  // <-- import your new component
+import MobileEquipPic from "./mobileEquipPic";  // <-- import your new component
 
 export default function ImageUploader() {
   const fileInputRef = useRef(null);

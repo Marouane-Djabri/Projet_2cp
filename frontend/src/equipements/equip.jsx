@@ -7,7 +7,7 @@ import Filtre from "../components/filtre";
 import EquipCard from "../components/equipCard";
 import AjouterButton from "../components/Ajouterbutton";
 import AddMobile from "../components/addMobile";
-import PopupChange from "../components/popupChange";
+import PopupChange from "../components/PopupChange";
 import Options from "../components/options";
 
 import useIsSmallScreen from "../hooks/useIsSmallScreen";

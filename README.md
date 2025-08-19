@@ -30,10 +30,10 @@ Our project is presented as an innovative, centralized, and collaborative soluti
 - User notifications & alerte.
 - Role-based access control.
 ## 👥 Team Members :
-* @Marouane-Djabri(https://github.com/Marouane-Djabri) .
-* @UltimateSnober(https://github.com/UltimateSnober) .
-* @sirine-seg(https://github.com/sirine-seg) .
-* @ImeneTouadi(https://github.com/ImeneTouadi).
+* @[Marouane-Djabri](https://github.com/Marouane-Djabri) .
+* @[UltimateSnober](https://github.com/UltimateSnober) .
+* @[sirine-seg](https://github.com/sirine-seg) .
+* @[ImeneTouadi](https://github.com/ImeneTouadi).
 * Louriachi Anfel .
 * Sellami Kholoud .
 _If you found this project helpful, please consider giving it a ⭐!_

@@ -1,5 +1,5 @@
 
-![[esiTrackLogo 2.svg]]
+![esiTRackLogo](https://github.com/Marouane-Djabri/Projet_2cp/blob/52205df30d44cc3e19715bbc94cfa0baf99ec196/esiTrackLogo.svg)
 
 ### a colaborative maintenace and equipements management plateform .
 - -  - 
@@ -16,10 +16,10 @@ Our project is presented as an innovative, centralized, and collaborative soluti
 * duration : 60h .
 ## 📸 Screenshots :
 
-![[Pasted image 20250819160143.png]]
-![[Pasted image 20250819160221.png]]
-![[Pasted image 20250819160256.png]]
-![[Pasted image 20250819160319.png]]
+![dashbord](https://github.com/Marouane-Djabri/Projet_2cp/blob/52205df30d44cc3e19715bbc94cfa0baf99ec196/dashBoard.png)
+![cards](https://github.com/Marouane-Djabri/Projet_2cp/blob/52205df30d44cc3e19715bbc94cfa0baf99ec196/Cards.png)
+![equipementsLogs](https://github.com/Marouane-Djabri/Projet_2cp/blob/52205df30d44cc3e19715bbc94cfa0baf99ec196/EquipementsLogs.png)
+![sideBar](https://github.com/Marouane-Djabri/Projet_2cp/blob/52205df30d44cc3e19715bbc94cfa0baf99ec196/SideBar.png) 
 ## ✨ Features :
 - Centralized equipment database .
 - Maintenance history logs .
@@ -30,9 +30,12 @@ Our project is presented as an innovative, centralized, and collaborative soluti
 - User notifications & alerte.
 - Role-based access control.
 ## 👥 Team Members :
+* @Marouane-Djabri
 * @UltimateSnober .
-* @sirine-seg
-* @ImeneTouadi
+* @sirine-seg .
+* @ImeneTouadi.
+* Louriachi Anfel .
+* Sellami Kholoud .
 _If you found this project helpful, please consider giving it a ⭐!_
 
 

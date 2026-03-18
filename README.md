@@ -1,19 +1,19 @@
 ![esiTRackLogo](https://github.com/Marouane-Djabri/Projet_2cp/blob/52205df30d44cc3e19715bbc94cfa0baf99ec196/esiTrackLogo.svg)
 
-# 🛠️ ESITrack  
+#  ESITrack  
 ### A Collaborative Platform for Equipment & Maintenance Management  
 
 ---
 
-## 🎯 About  
+##  About  
 
-### 🎪 Problem Statement  
+###  Problem Statement  
 At ESI, technical equipment is essential for classes, practical work, and research. Maintenance has therefore become a strategic pillar for the smooth operation of the institution. A unified and digital approach provides an opportunity to improve efficiency and ensure optimal use of resources.  
 
-### 💡 Solution  
+###  Solution  
 Our project proposes an innovative, centralized, and collaborative platform for maintenance management. It is designed to simplify, automate, and optimize every step of the process while ensuring maximum availability of the school’s equipment.  
 
-### 🎓 Academic Context  
+###  Academic Context  
 - **Course:** Projet Pluridisciplinaire (PRJP)  
 - **Semester:** Second  
 - **Institution:** École Nationale Supérieure d’Informatique (ESI Algiers)  
@@ -30,7 +30,7 @@ Our project proposes an innovative, centralized, and collaborative platform for 
 
 ---
 
-## ✨ Features  
+##  Features  
 
 - Centralized equipment database  
 - Maintenance history logs  
@@ -43,7 +43,7 @@ Our project proposes an innovative, centralized, and collaborative platform for 
 
 ---
 
-## 👥 Team Members  
+##  Team Members  
 
 - [@Marouane-Djabri](https://github.com/Marouane-Djabri)  
 - [@UltimateSnober](https://github.com/UltimateSnober)  
